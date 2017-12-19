@@ -1,7 +1,6 @@
 {
   "name": "holly_shop",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,5 +23,14 @@
     "moment": "^2.20.1",
     "mongoose": "^4.13.7",
     "morgan": "^1.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecowton/holly-shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joecowton/holly-shop/issues"
+  },
+  "homepage": "https://github.com/joecowton/holly-shop#readme",
+  "description": ""
 }
